@@ -1,3 +1,10 @@
+/*
+ * File         :  BankException.java
+ * Description  :  Java program to implement CustomException
+ * Author       :  Advait Arjit S
+ * Version      :  1.0
+ * Date         :  07/11/2023
+ */
 import java.util.Scanner;
 public class BankException {
 	public static void main(String args[]) {
