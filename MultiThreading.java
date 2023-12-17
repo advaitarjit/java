@@ -1,5 +1,5 @@
 /*
- * File         :  Synchronizatio.java
+ * File         :  MultiThreading.java
  * Description  :  Java program to implement ThreadSynchronization
  * Author       :  Advait Arjit S
  * Version      :  1.0
